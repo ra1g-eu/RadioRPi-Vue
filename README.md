@@ -1,4 +1,6 @@
 # radiorpi
+Listen to Czech or Slovak internet radios online
+
 
 ## Project setup
 ```
